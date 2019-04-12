@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css?family=Margarine|Righteous|Sniglet');
+
+html {
+    font-size: 40px;
+}
+
+body {
+    font-size: 40px;
+}
+
+div {
+    font-size: 2rem;
+}
+
+h1 {
+    color: blue;
+    font-size: 3rem;
+    font-family: 'Margarine', cursive;
+}
+
+p {
+    color: green;
+    font-size: 1rem;
+    font-family: 'Righteous', cursive;
+
+}
+
+.hello {
+    color: purple;
+}
+
+.hello:hover {
+    color: tomato;
+}
+
+.bonjour {
+    color: orange;
+}
+
+.cover {
+    background-color: rgb(255, 100, 50);
+    width: 100vw;
+    height: 100vh;
+}
